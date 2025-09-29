@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Github Stats -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dintwala&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dintwala&hide_border=false" alt="dintwala streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dintwala&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
+<br>
